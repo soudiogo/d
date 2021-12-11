@@ -1,0 +1,13 @@
+org/academiadecodigo/soundpark/persistence/dao/jpa/GenericDao.class
+org/academiadecodigo/soundpark/services/PlayerService.class
+org/academiadecodigo/soundpark/persistence/model/Model.class
+org/academiadecodigo/soundpark/persistence/model/AbstractModel.class
+org/academiadecodigo/soundpark/persistence/model/Player.class
+org/academiadecodigo/soundpark/controller/rest/PlayerRest.class
+org/academiadecodigo/soundpark/persistence/dao/jpa/JpaPlayerDao.class
+org/academiadecodigo/soundpark/persistence/dao/PlayerDao.class
+org/academiadecodigo/soundpark/Main.class
+org/academiadecodigo/soundpark/services/PlayerServiceImpl.class
+org/academiadecodigo/soundpark/controller/web/PlayerController.class
+org/academiadecodigo/soundpark/Test.class
+org/academiadecodigo/soundpark/persistence/dao/Dao.class

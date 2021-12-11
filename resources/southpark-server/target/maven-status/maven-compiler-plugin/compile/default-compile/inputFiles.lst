@@ -1,0 +1,13 @@
+/Users/codecadet/Desktop/soundpark/southpark-server/src/main/java/org/academiadecodigo/soundpark/persistence/dao/Dao.java
+/Users/codecadet/Desktop/soundpark/southpark-server/src/main/java/org/academiadecodigo/soundpark/persistence/dao/PlayerDao.java
+/Users/codecadet/Desktop/soundpark/southpark-server/src/main/java/org/academiadecodigo/soundpark/Main.java
+/Users/codecadet/Desktop/soundpark/southpark-server/src/main/java/org/academiadecodigo/soundpark/persistence/model/Model.java
+/Users/codecadet/Desktop/soundpark/southpark-server/src/main/java/org/academiadecodigo/soundpark/controller/rest/PlayerRest.java
+/Users/codecadet/Desktop/soundpark/southpark-server/src/main/java/org/academiadecodigo/soundpark/Test.java
+/Users/codecadet/Desktop/soundpark/southpark-server/src/main/java/org/academiadecodigo/soundpark/persistence/model/AbstractModel.java
+/Users/codecadet/Desktop/soundpark/southpark-server/src/main/java/org/academiadecodigo/soundpark/persistence/dao/jpa/JpaPlayerDao.java
+/Users/codecadet/Desktop/soundpark/southpark-server/src/main/java/org/academiadecodigo/soundpark/services/PlayerServiceImpl.java
+/Users/codecadet/Desktop/soundpark/southpark-server/src/main/java/org/academiadecodigo/soundpark/persistence/dao/jpa/GenericDao.java
+/Users/codecadet/Desktop/soundpark/southpark-server/src/main/java/org/academiadecodigo/soundpark/services/PlayerService.java
+/Users/codecadet/Desktop/soundpark/southpark-server/src/main/java/org/academiadecodigo/soundpark/controller/web/PlayerController.java
+/Users/codecadet/Desktop/soundpark/southpark-server/src/main/java/org/academiadecodigo/soundpark/persistence/model/Player.java
